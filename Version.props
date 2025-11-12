@@ -1,6 +1,5 @@
 <Project>
   <PropertyGroup>
-    <Version>2.4.1</Version>
-    <VersionSuffix>criteo.1</VersionSuffix>
+    <Version>2.4.1-criteo.1</Version>
   </PropertyGroup>
 </Project>
